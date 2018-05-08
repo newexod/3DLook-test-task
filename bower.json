@@ -1,0 +1,23 @@
+{
+  "name": "3dlook-test-task",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "newexod"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "reset-css": "^3.0.0",
+    "jquery": "^3.3.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
